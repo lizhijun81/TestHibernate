@@ -16,7 +16,7 @@
 
   <dependencies>
     <dependency>
-    <groupId>org.hibernate11</groupId>
+    <groupId>org.hibernate11333</groupId>
       <artifactId>hibernate-core</artifactId>
       <version>3.6.5.Final</version>
     </dependency>
