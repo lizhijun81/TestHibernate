@@ -16,7 +16,7 @@
 
   <dependencies>
     <dependency>
-    <groupId>org.hibernate11333</groupId>
+    <groupId>org.hibernate</groupId>
       <artifactId>hibernate-core</artifactId>
       <version>3.6.5.Final</version>
     </dependency>
@@ -37,10 +37,5 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
-	asdadasdadasd
-rrrrrrrr
-	sjsdhjhfjshddg
   </dependencies>
-ff
-
 </project>
